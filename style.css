@@ -13,3 +13,13 @@
 .categories{
     height: 110px;
 }
+.gap-my{
+    margin-top: 100px;
+
+}
+.btn-clr{
+    background-color: #4dd4ac;
+}
+.pink-btn{
+    background-color: #efadce !important;
+}
