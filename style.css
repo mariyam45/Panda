@@ -1,3 +1,15 @@
 .p-bg-info{
     background-color:#fceae8 !important;
 }
+.y300-bg-warning{
+    background-color: #ffcd39 !important;
+}
+.p400-bg-success{
+    background-color:#de5c9d !important;
+}
+.b300-bg-primary{
+    background-color: #6edff6 !important;
+}
+.categories{
+    height: 110px;
+}
